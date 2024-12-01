@@ -65,7 +65,7 @@ main.importa section{
 }
 main.importa section div.centro{
     display: flex;
-    padding: 0 5vw 0 5vw;
+    padding: 5vw 5vw 0 5vw;
 }
 main.importa section div.centro h2{
     padding: 6vw 30px 1vw 30px;
