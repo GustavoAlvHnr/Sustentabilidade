@@ -43,7 +43,7 @@ header nav ul li{
     padding:  0 5px 0 5px;
 }
 header nav ul li a{
-    font-size: calc(12px + 0.390625vw);
+    font-size: calc(14px + 0.390625vw);
     border: solid;
     padding: 5px;
     border-radius: 10px;
@@ -59,7 +59,7 @@ header nav ul li a:hover{
 ===================*/
 main section.oquee h2{
     text-align: center;
-    font-size: calc(21px + 00.390625vw);
+    font-size: calc(18px + 00.390625vw);
     padding: 2vw 0 2vw;
 }
 main section.oquee div{
@@ -67,11 +67,11 @@ main section.oquee div{
 }
 main section.oquee div.direita{
     text-align: right;
-    font-size: calc(18px + 0.390625vw);
+    font-size: calc(14px + 0.390625vw);
 }
 main section.oquee div.esquerda{
     text-align: left;
-    font-size: calc(18px + 0.390625vw);
+    font-size: calc(15px + 0.390625vw);
 }
 
 /* =====================
