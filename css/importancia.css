@@ -1,0 +1,106 @@
+/* **************************
+        Importancia
+****************************/
+/* ===============================
+            Geral
+=================================*/
+html{
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: calc(13px + 0.390625vw);
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a.selecao{
+    color: white;
+    border: solid white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+/* ============================
+            Header
+==============================*/
+header{
+    background-color: #25995c;
+    border-radius: 0 0 20px 20px;
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0 20px 0;
+}
+header nav a img{
+    width: 200px;
+    height: 100px;
+}
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 36px;
+}
+header nav ul li{
+    padding:  0 5px 0 5px;
+}
+header nav ul li a{
+    font-size: calc(12px + 0.390625vw);
+    border: solid;
+    padding: 5px;
+    border-radius: 10px;
+}
+header nav ul li a:hover{
+    color: #25995c;
+    background-color: black;
+    border-color: black;
+}
+
+/* ============================ 
+        Conteudo
+=============================*/
+main.importa section{
+    padding:3vw;
+}
+main.importa section div.centro{
+    display: flex;
+    padding: 0 5vw 0 5vw;
+}
+main.importa section div.centro h2{
+    padding: 6vw 30px 1vw 30px;
+    font-size: calc(20px + 0.390625vw);
+}
+main.importa section p{
+    padding: 10px;
+    font-size: calc(18px + 0.390625vw);
+}
+main.importa section img{
+    height: 22vw;
+    width: 22vw;
+}
+main.importa section div.diferente{
+    text-align: center;
+    padding: 2vw 6vw 3vw;
+    font-size: calc(21px + 0.390625vw);
+}   
+/* =======================
+        Footer
+=========================*/
+footer{
+    background-color: #25995c;
+    border-radius: 20px 20px 0 0;
+    padding: 2vw 1vw 1.5vw 1vw;
+    display: flex;
+    justify-content: space-around;
+}
+footer p{
+    padding: 5px 0 5px 0;
+}
+footer a{
+    padding: 5px 0 5px 0;
+    color: white;
+}
+footer a span:hover{
+    color: black;
+}
