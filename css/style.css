@@ -61,7 +61,7 @@ main.inicio section.explain{
     padding: 2vw;
 }
 main.inicio section.explain h1{
-    font-size: calc(15px + 0.390625vw);
+    font-size: calc(13px + 0.390625vw);
     padding: 0 10px 20px 10px;
     font-weight: bold;
 }
@@ -96,7 +96,7 @@ main.inicio section.conteudos ul li a{
     transition: 1s;
 }
 main.inicio section.conteudos ul li h2{
-    font-size: calc(16px + 0.390625vw);
+    font-size: calc(14px + 0.390625vw);
     padding: 5px;
 }
 main.inicio section.conteudos ul li a:hover{

@@ -69,11 +69,11 @@ main.importa section div.centro{
 }
 main.importa section div.centro h2{
     padding: 6vw 30px 1vw 30px;
-    font-size: calc(20px + 0.390625vw);
+    font-size: calc(18px + 0.390625vw);
 }
 main.importa section p{
     padding: 10px;
-    font-size: calc(18px + 0.390625vw);
+    font-size: calc(14px + 0.390625vw);
 }
 main.importa section img{
     height: 22vw;
@@ -82,7 +82,7 @@ main.importa section img{
 main.importa section div.diferente{
     text-align: center;
     padding: 2vw 6vw 3vw;
-    font-size: calc(21px + 0.390625vw);
+    font-size: calc(18px + 0.390625vw);
 }   
 /* =======================
         Footer
